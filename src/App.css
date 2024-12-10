@@ -1,0 +1,23 @@
+/* src/App.css */
+input {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
+
+div {
+  margin-top: 20px;
+}
